@@ -3,7 +3,7 @@ import { Email } from 'meteor/email';
 
 Meteor.startup(() => {
   // code to run on server at startup
-    process.env.MAIL_URL = 'smtp://postmaster@mikeandiana.com:lzl950607@smtp.mailgun.org:587';
+   
 });
 
 
